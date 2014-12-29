@@ -534,20 +534,4 @@
   <object x="192" y="0" width="64" height="128"/>
   <object x="128" y="0" width="64" height="64"/>
  </objectgroup>
- <objectgroup name="Spawn">
-  <object x="128" y="160" width="64" height="64">
-   <properties>
-    <property name="Type" value="Player"/>
-   </properties>
-  </object>
- </objectgroup>
- <objectgroup name="Teleport">
-  <object x="128" y="64" width="64" height="32">
-   <properties>
-    <property name="Map Name" value="Second"/>
-    <property name="Target X" value="50"/>
-    <property name="Target Y" value="97"/>
-   </properties>
-  </object>
- </objectgroup>
 </map>
